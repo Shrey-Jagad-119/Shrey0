@@ -1,73 +1,39 @@
-### Hi there!
+# Hi there, I'm Shrey Jagad 👋
 
+Senior Software Engineer specializing in backend architectures, distributed cloud infrastructure, and data systems for AI/ML workflows[cite: 1]. Experienced in building high-throughput pipelines, designing zero-downtime services, and leading full-lifecycle web platform migrations[cite: 1].
 
-<a href=https://www.facebook.com/shrey.jagad.1/> <img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png"></img></a>
+---
 
+### 🚀 What I Do
 
-<a href=https://www.linkedin.com/in/shrey-jagad-12420916b/ > <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
+- **Distributed Systems & Cloud:** Architecting scalable, zero-downtime cloud services (Azure, Cosmos DB, Service Bus, Redis)[cite: 1].
+- **Data & AI Infrastructure:** Designing reliable ingestion and monitoring pipelines to power large-scale LLM training workflows[cite: 1].
+- **Performance Engineering:** Optimizing complex data models and queries across PostgreSQL, MongoDB, and Elasticsearch[cite: 1].
+- **Full-Stack Ownership:** Delivering resilient web architectures with TypeScript and modern web technologies[cite: 1].
 
+---
 
-<a href=https://twitter.com/JagadShrey > <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png"></img></a>
+### 🛠 Tech Stack
 
+- **Languages:** TypeScript, JavaScript, C#, Python[cite: 1]
+- **Frameworks & State:** .NET, Angular, RxJS, NgRx[cite: 1]
+- **Databases & Search:** PostgreSQL, MongoDB, Cosmos DB, Elasticsearch[cite: 1]
+- **Cloud & DevOps:** Azure (App Services, Service Bus, Storage, Monitoring), Docker, Azure DevOps[cite: 1]
+- **AI & Developer Tools:** Cursor, Claude Code, Lovable, Codex, MCP (Model Context Protocol)[cite: 1]
+- **Testing & Tools:** Cypress, Postman, Swagger, Webpack[cite: 1]
 
-<a href=https://www.instagram.com/jagadshrey/ > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
+---
 
+### 📈 Highlighted Impact
 
-<a href=http://www.wisebite.in > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
+- **LLM Pipeline Optimization:** Cut PostgreSQL query latencies by 90% (from 32s timeouts to 3s) for large-scale training workflows[cite: 1].
+- **Infrastructure Automation:** Engineered an automated, zero-downtime secret-rotation engine across Azure Key Vault, Redis, and storage layers with automated drift detection[cite: 1].
+- **BI Platform Modernization:** Designed and launched an Elasticsearch self-service analytics engine, saving $200k annually by replacing legacy enterprise BI tools[cite: 1].
 
+---
 
-<a href=https://github.com/Shrey0 > <img align="left" src="https://images.app.goo.gl/bNWqhZMAXYhtWCa46"></img></a>
+### 📫 Connect With Me
 
-#### Let's Connect<br>
-
-#### <br>Name: Shrey H Jagad
-
-#### Position: Software Development Engineer I
-
-#### Email: jagadshrey001@gmail.com
-
-#### <h4>About Myself: 
-Hey readers,
-
-I am a devoted software developer with a track record of creating unique products. I'm
-looking for a position where I can use my skills and abilities in the ever-evolving
-digital world and advance my career while being flexible, resourceful, and
-imaginative. I am a driven, enthusiastic computer engineer who is always willing to
-contribute and learn something new.
-</h4>
-
-# Education
-
-
- - <h4>College Name: Gujarat Technological University</h4>
-    
-    <h4>Degree: Bachelor's In Computer Engineering </h4>
-    
-    <h4>From:2019-08</h4>
-    
-    <h4>To:2021-03</h4>
-    
-# Work Experience
-
-<ul>
- <li>
-  <h3>Software Development Engineer 1</h3>
-  <h4>@ Exxat Systems Pvt Ltd., Bengaluru</h4>
-  <h5>Work Experaince: 2 yrs.</h5>
- </li>
-</ul>
-
-# Projects
-
-<ul></ul>
-
-# Skills
-
-<h4>HTML,CSS,Java,Python,GIT,Blockchain,JQuery</h4>
-
-# Achievements
-
-<ul><li></li></ul>
-
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Shrey0)
+- **Email:** [jagadshrey001@gmail.com](mailto:jagadshrey001@gmail.com)
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/shrey-jagad/)
+- **Location:** Gujarat, India
